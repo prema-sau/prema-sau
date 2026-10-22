@@ -1,3 +1,15 @@
+# Hey, I'm Prema! 👋
+
+🎓 IT Student | 💻 Aspiring Data Scientist
+
+I'm passionate about technology, analytical thinking, and solving real-world problems through code. Currently building my foundation in programming and exploring the world of data.
+
+🔭 **Building:** Python projects & practical solutions
+🌱 **Learning:** Python, SQL & Data Science
+🤝 **Open to:** Collaborations & open-source contributions
+🎯 **Goal:** Turning knowledge into skills and ideas into impact.
+
+*Curious mind. Continuous learner. Future innovator.* 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pprema__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/prema-sau-8153b5351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:premasautech@gmail.com) 
